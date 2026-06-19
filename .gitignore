@@ -6,3 +6,5 @@ day01-seaborn.ipynb
 logistic.ipynb
 train.csv
 metric.ipynb
+crossval-tuning.ipynb
+scaler-ohe-pipeline.ipynb
